@@ -103,5 +103,5 @@ if __name__ == "__main__":
     run_pipeline(countries,
                  window_size=12,
                  train_ratio=0.8,
-                 epochs=100,
-                 batch_size=32)
+                 epochs=175,
+                 batch_size=16)
